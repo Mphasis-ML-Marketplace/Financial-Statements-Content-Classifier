@@ -1,4 +1,4 @@
-# Financial-Statements-Classifier
+# Financial-Statements-Content-Classifier
 This solution identifies financial statements in an annual report and classifies them into Profit/Loss, Balance Sheet, and Cash Flow.
 
 #Product overview
