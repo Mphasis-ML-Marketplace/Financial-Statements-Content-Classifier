@@ -8,3 +8,6 @@ This solution takes an annual report in a digital pdf format as input, and retur
 * The Financial Statements Content Classifier uses text classification techniques to identify and sort the pages of interest into the general categories of financial statements.
 * This solution can be used in industries like consulting, banking, financial services, insurance, retail, healthcare, pharmaceuticals, manufacturing, airlines, etc to automate processes  like financial spreading, vendor/merchant risk assessment, fundamental analysis etc.
 * DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Image Analytics solutions? Get in touch!
+
+## Amazon Marketplace Link
+The product can be found [here](https://aws.amazon.com/marketplace/)
